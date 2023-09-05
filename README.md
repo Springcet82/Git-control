@@ -1,2 +1,2 @@
-# Odin recipes
+# Odin-recipes
 My first Github sample
