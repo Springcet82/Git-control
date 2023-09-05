@@ -1,2 +1,2 @@
-# Git-control
+# Odin recipes
 My first Github sample
